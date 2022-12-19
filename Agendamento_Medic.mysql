@@ -19,7 +19,7 @@ primary key (Inscricao, Idade)
 )default charset = utf8; 
 
 insert into agend_medico (Nome, Inscricao, Cidade, Estado, DDD, Tel, Sexo, Data_Nasc, Idade, Peso, Altura, Nacionalidade) values ('Joao Vitor', '003344701', 'Adamantina', 'SP', '18', '997985900', 'M', '05-02-2000', '22', '63', '1.70', 'Brasileiro');
-insert into agend_medico (Nome, Inscricao, Cidade, Estado, DDD, Tel, Sexo, Data_Nasc, Idade, Peso, Altura, Nacionalidade) values ('carol', '004305002', 'Sao Paulo', 'SP', '11', '981038010', 'F', '2001-02-12', '21', '70', "1.75", 'Brasileira');
+insert into agend_medico (Nome, Inscricao, Cidade, Estado, DDD, Tel, Sexo, Data_Nasc, Idade, Peso, Altura, Nacionalidade) values ('Mafalda', '004305002', 'Sao Paulo', 'SP', '11', '981038010', 'F', '2001-02-12', '21', '70', "1.75", 'Brasileira');
 insert into agend_medico (Nome, Inscricao, Cidade, Estado, DDD, Tel, Sexo, Data_Nasc, Idade, Peso, Altura, Nacionalidade) values ('Anderson', '007345103', 'Marilia', 'SP', '14', '987038019', 'M', '1997-01-12', '25', '77', "1.80", 'Brasileiro');
 insert into agend_medico (Nome, Inscricao, Cidade, Estado, DDD, Tel, Sexo, Data_Nasc, Idade, Peso, Altura, Nacionalidade) values ('Carla', '007376143', 'Bauru', 'SP', '14', '997638719', 'F', '1991-12-27', '30', '80', "1.90", 'Brasileira');
 
